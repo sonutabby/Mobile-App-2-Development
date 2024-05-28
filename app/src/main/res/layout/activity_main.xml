@@ -69,6 +69,7 @@
 
     <TextView
         android:id="@+id/txt_trans"
+        android:fontFamily="@font/serenata_vantages_regular"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"

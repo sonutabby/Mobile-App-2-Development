@@ -109,11 +109,11 @@ class MainActivity : AppCompatActivity() {
             "Spanish" to "Te quiero",
             "French" to "Je t'aime",
             "German" to "Ich liebe dich",
-            "Chinese" to "我爱你",
-            "Japanese" to "愛してる",
-            "Korean" to "사랑해",
+            "Chinese" to "我爱你 | Wǒ ài nǐ",
+            "Japanese" to "愛してる | Itoshi teru",
+            "Korean" to "사랑해 | saranghae",
             "Indonesian" to "Aku cinta kamu",
-            "Arabic" to "أحبك",
+            "Arabic" to "'uhibuk | أحبك",
             "Tagalog" to "Mahal kita"
         )
 
