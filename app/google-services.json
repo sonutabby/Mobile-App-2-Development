@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268595527771",
+    "project_id": "itranslateapp-3637a",
+    "storage_bucket": "itranslateapp-3637a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268595527771:android:f242efa2b84087f42e3f7e",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvtqF8DCbT04hqOVrHzP80cJju5PqEna8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

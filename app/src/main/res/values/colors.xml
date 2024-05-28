@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_color">#222831</color>
+    <color name="txt_color">#76ABAE</color>
+    <color name="txt">#DFD0B8</color>
+    <color name="mic_clr">#4D869C</color>
+    <color name="trans_clr">#CDE8E5</color>
+    <color name="splash_screen">#B3C8CF</color>
+    <color name="i_txt">#092635</color>
+</resources>
